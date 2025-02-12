@@ -1,5 +1,10 @@
-# Code Documentation Bot
+# 📄 AI Code Documentation Bot
 This is a telegram bot for automatic code documentation.<br>
 
 Your code can be submitted as plain text, file(of any programming language) or a screenshot(png, jpg, jpeg).<br>
 With help of large language model's API you will receive documentation for it.
+
+### Previews
+| Response to Text | Response to a File | Response to an Image |
+|:--:|:--:|:--:|
+| <img src="previews/text.jpg"> | <img src="previews/file.jpg"> | <img src="previews/image.jpg"> |
